@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![asdasd](https://user-images.githubusercontent.com/46497281/164966399-152ed30b-9913-4728-ac34-a8f17182c184.svg)
 <!--
 **hamkke/hamkke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
