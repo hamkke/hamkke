@@ -1,4 +1,5 @@
-![1231231231231231](https://user-images.githubusercontent.com/46497281/164967975-8b1d5679-0594-428f-a021-e3c7bb5fc571.svg)
+![](https://user-images.githubusercontent.com/46497281/164967975-8b1d5679-0594-428f-a021-e3c7bb5fc571.svg)
+<br>
 <br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="center">
@@ -11,6 +12,3 @@
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-
-
-</br>
