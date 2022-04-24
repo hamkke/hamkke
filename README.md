@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/46497281/164969622-0162cf50-af75-4544-bcb1-9b93e7bae58f.svg)
-<h3 align="center">I'm Seo Hyeon💚<br><br> 
+<h3 align="center">❄I'm Seo Hyeon❄<br><br> 
 <a href="https://velog.io/@hamkke/" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge"/></a>
-<a href="https://velog.io/@hamkke/" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge"/></a>
+<a href="mailto:walwalzz030@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge"/></a>
 </h3>
 
 <br>
