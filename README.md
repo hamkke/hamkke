@@ -1,5 +1,4 @@
-![](https://user-images.githubusercontent.com/46497281/164966399-152ed30b-9913-4728-ac34-a8f17182c184.svg)
-![asdasdasdasdasdasd](https://user-images.githubusercontent.com/46497281/164967780-eb35a852-fbc5-4182-a948-cacffedfac4d.svg)
+![1231231231231231](https://user-images.githubusercontent.com/46497281/164967975-8b1d5679-0594-428f-a021-e3c7bb5fc571.svg)
 <br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="center">
